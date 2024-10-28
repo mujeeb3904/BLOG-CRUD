@@ -1,0 +1,17 @@
+{
+  "name": "blog-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "moongose": "^1.0.0",
+    "nodemon": "^3.1.7"
+  }
+}
